@@ -1,0 +1,28 @@
+{
+  "key.cinematiczoom.zoom": "Cinematic Zoom",
+  "key.categories.cinematiczoom": "Cinematic Zoom",
+  "key.category.cinematiczoom.cinematiczoom": "Cinematic Zoom",
+
+  "cinematiczoom.configuration.title": "Cinematic Zoom Konfiguration",
+  "cinematiczoom.configuration.section.cinematiczoom-client.toml": "Cinematic Zoom Client-Konfiguration",
+  "cinematiczoom.configuration.section.cinematiczoom-client.toml.title": "Cinematic Zoom Client-Einstellungen",
+  "cinematiczoom.configuration.barsPercent": "Höhe der schwarzen Balken (%)",
+  "cinematiczoom.configuration.barsPercent.tooltip": "Höhe der kinematischen schwarzen Balken in Prozent der Bildschirmhöhe (0-50%)",
+  "cinematiczoom.configuration.smoothMs": "Animationsgeschwindigkeit (ms)",
+  "cinematiczoom.configuration.smoothMs.tooltip": "Übergangszeit der Animation in Millisekunden. 0 = sofortiger Zoom",
+  "cinematiczoom.configuration.mouseWheelEnabled": "Mausrad-Zoom-Steuerung",
+  "cinematiczoom.configuration.mouseWheelEnabled.tooltip": "Erlaube Zoom-Anpassung mit Mausrad während Zoom-Taste gehalten wird",
+  "cinematiczoom.configuration.hideHudDuringZoom": "HUD beim Zoomen ausblenden",
+  "cinematiczoom.configuration.hideHudDuringZoom.tooltip": "HUD und Fadenkreuz während des Zoomens vorübergehend ausblenden (wie F1-Modus)",
+  "cinematiczoom.configuration.enableCinematicCamera": "Kinematische Kamera aktivieren",
+  "cinematiczoom.configuration.enableCinematicCamera.tooltip": "Sanfte Kamerabewegung während des Zoomens aktivieren",
+  "cinematiczoom.configuration.baseZoomMultiplier": "Basis-Zoom-Multiplikator",
+  "cinematiczoom.configuration.baseZoomMultiplier.tooltip": "Anfängliches Zoom-Level beim Aktivieren (niedriger = stärker gezoomt)",
+  "cinematiczoom.configuration.minZoomMultiplier": "Min. Zoom-Multiplikator",
+  "cinematiczoom.configuration.minZoomMultiplier.tooltip": "Minimales Zoom-Level bei Verwendung des Mausrads",
+  "cinematiczoom.configuration.maxZoomMultiplier": "Max. Zoom-Multiplikator",
+  "cinematiczoom.configuration.maxZoomMultiplier.tooltip": "Maximales Zoom-Level bei Verwendung des Mausrads",
+  "cinematiczoom.configuration.wheelStep": "Mausrad-Schrittweite",
+  "cinematiczoom.configuration.wheelStep.tooltip": "Zoom-Anpassung pro Mausrad-Klick"
+}
+

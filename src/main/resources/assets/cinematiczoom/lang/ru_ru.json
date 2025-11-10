@@ -1,0 +1,27 @@
+{
+  "key.cinematiczoom.zoom": "Кинематографичный зум",
+  "key.categories.cinematiczoom": "Кинематографичный зум",
+  "key.category.cinematiczoom.cinematiczoom": "Кинематографичный зум",
+
+  "cinematiczoom.configuration.title": "Настройки CinematicZoom",
+  "cinematiczoom.configuration.section.cinematiczoom-client.toml": "Клиентские настройки CinematicZoom",
+  "cinematiczoom.configuration.section.cinematiczoom-client.toml.title": "Клиентские настройки CinematicZoom",
+  "cinematiczoom.configuration.barsPercent": "Высота чёрных полос (%)",
+  "cinematiczoom.configuration.barsPercent.tooltip": "Высота кинематографичных чёрных полос в процентах от высоты экрана (0-50%)",
+  "cinematiczoom.configuration.smoothMs": "Скорость анимации (мс)",
+  "cinematiczoom.configuration.smoothMs.tooltip": "Время перехода анимации в миллисекундах. 0 = мгновенный зум",
+  "cinematiczoom.configuration.mouseWheelEnabled": "Управление колёсиком мыши",
+  "cinematiczoom.configuration.mouseWheelEnabled.tooltip": "Разрешить настройку зума колёсиком при удержании клавиши зума",
+  "cinematiczoom.configuration.hideHudDuringZoom": "Скрывать HUD при зуме",
+  "cinematiczoom.configuration.hideHudDuringZoom.tooltip": "Временно скрывать HUD и прицел во время зума (как режим F1)",
+  "cinematiczoom.configuration.enableCinematicCamera": "Кинематографичная камера",
+  "cinematiczoom.configuration.enableCinematicCamera.tooltip": "Включить плавное движение камеры во время зума",
+  "cinematiczoom.configuration.baseZoomMultiplier": "Базовый множитель зума",
+  "cinematiczoom.configuration.baseZoomMultiplier.tooltip": "Начальный уровень зума при активации (меньше = сильнее зум)",
+  "cinematiczoom.configuration.minZoomMultiplier": "Минимальный множитель",
+  "cinematiczoom.configuration.minZoomMultiplier.tooltip": "Минимальный уровень зума при использовании колёсика мыши",
+  "cinematiczoom.configuration.maxZoomMultiplier": "Максимальный множитель",
+  "cinematiczoom.configuration.maxZoomMultiplier.tooltip": "Максимальный уровень зума при использовании колёсика мыши",
+  "cinematiczoom.configuration.wheelStep": "Шаг колёсика мыши",
+  "cinematiczoom.configuration.wheelStep.tooltip": "Изменение зума за один щелчок колёсика"
+}

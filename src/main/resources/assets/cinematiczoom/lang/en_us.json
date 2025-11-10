@@ -1,0 +1,28 @@
+{
+  "key.cinematiczoom.zoom": "Cinematic Zoom",
+  "key.categories.cinematiczoom": "Cinematic Zoom",
+  "key.category.cinematiczoom.cinematiczoom": "Cinematic Zoom",
+
+  "cinematiczoom.configuration.title": "CinematicZoom Configuration",
+  "cinematiczoom.configuration.section.cinematiczoom-client.toml": "CinematicZoom Client Config",
+  "cinematiczoom.configuration.section.cinematiczoom-client.toml.title": "CinematicZoom Client Settings",
+  "cinematiczoom.configuration.barsPercent": "Black Bars Height (%)",
+  "cinematiczoom.configuration.barsPercent.tooltip": "Height of cinematic black bars as percentage of screen height (0-50%)",
+  "cinematiczoom.configuration.smoothMs": "Smoothing Speed (ms)",
+  "cinematiczoom.configuration.smoothMs.tooltip": "Animation transition time in milliseconds. 0 = instant zoom",
+  "cinematiczoom.configuration.mouseWheelEnabled": "Mouse Wheel Zoom Control",
+  "cinematiczoom.configuration.mouseWheelEnabled.tooltip": "Allow adjusting zoom level with mouse wheel while holding zoom key",
+  "cinematiczoom.configuration.hideHudDuringZoom": "Hide HUD During Zoom",
+  "cinematiczoom.configuration.hideHudDuringZoom.tooltip": "Temporarily hide HUD and crosshair while zooming (like F1 mode)",
+  "cinematiczoom.configuration.enableCinematicCamera": "Enable Cinematic Camera",
+  "cinematiczoom.configuration.enableCinematicCamera.tooltip": "Enable smooth camera movement during zoom",
+  "cinematiczoom.configuration.baseZoomMultiplier": "Base Zoom Multiplier",
+  "cinematiczoom.configuration.baseZoomMultiplier.tooltip": "Initial zoom level when activating zoom (lower = more zoom)",
+  "cinematiczoom.configuration.minZoomMultiplier": "Min Zoom Multiplier",
+  "cinematiczoom.configuration.minZoomMultiplier.tooltip": "Minimum zoom level when using mouse wheel",
+  "cinematiczoom.configuration.maxZoomMultiplier": "Max Zoom Multiplier",
+  "cinematiczoom.configuration.maxZoomMultiplier.tooltip": "Maximum zoom level when using mouse wheel",
+  "cinematiczoom.configuration.wheelStep": "Mouse Wheel Step",
+  "cinematiczoom.configuration.wheelStep.tooltip": "Zoom adjustment per mouse wheel tick"
+}
+
