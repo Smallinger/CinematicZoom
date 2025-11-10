@@ -104,7 +104,7 @@ de.smallinger.cinematiczoom/
 ## 📜 Credits
 
 - **Original Mod**: [Mel1x](https://github.com/mel1x/CinematicZoom) - Fabric version
-- **NeoForge Port**: smallinger
+- **NeoForge Port**: [Smallinger](https://github.com/smallinger/CinematicZoom)
 - **License**: MIT
 
 ### Original Fabric Version
