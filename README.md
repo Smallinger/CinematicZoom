@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CinematicZoom Icon](NeoForge/src/main/resources/assets/cinematiczoom/icon.png)
+<img src="https://github.com/Smallinger/CinematicZoom/blob/main/src/main/resources/assets/cinematiczoom/icon.png" alt="CinematicZoom Icon" width="300">
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green.svg)](https://www.minecraft.net/)
