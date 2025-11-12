@@ -35,21 +35,16 @@ public class CinematicZoomClient {
     }
 
     private void onRegisterKeyMappings(RegisterKeyMappingsEvent event) {
-        // Register custom category for CinematicZoom
-        KeyMapping.Category category = new KeyMapping.Category(
-                net.minecraft.resources.ResourceLocation.fromNamespaceAndPath(
-                        CinematicZoom.MODID, 
-                        "cinematiczoom"
-                )
-        );
-        event.registerCategory(category);
-        
+        // Use a translation key as category (compatible with older NeoForge mappings)
+        String category = "key.categories.cinematiczoom";
+
         ZOOM_KEYBIND = new KeyMapping(
-                "key.cinematiczoom.zoom",
-                InputConstants.Type.KEYSYM,
-                GLFW.GLFW_KEY_C,
-                category
+            "key.cinematiczoom.zoom",
+            InputConstants.Type.KEYSYM,
+            GLFW.GLFW_KEY_C,
+            category
         );
+        
         event.register(ZOOM_KEYBIND);
         
         CinematicZoom.LOGGER.info("CinematicZoom keybinding registered");

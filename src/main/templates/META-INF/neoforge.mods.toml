@@ -8,6 +8,11 @@
 # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
 license="${mod_license}"
 
+# The language loader used for this JAR. For Java mods use the javafml loader.
+modLoader="javafml"
+# The acceptable version range of the language loader (javafml). Keep as [1,)
+loaderVersion="[1,)"
+
 # A URL to refer people to when problems occur with this mod
 issueTrackerURL="https://github.com/smallinger/CinematicZoom/issues" #optional
 
